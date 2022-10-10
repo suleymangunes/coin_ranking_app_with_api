@@ -1,6 +1,7 @@
 # coin_siralama
 
 A new Flutter project.
+Ps. Add your api key from coinmarketcap.
 
 
 
