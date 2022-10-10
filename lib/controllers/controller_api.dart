@@ -12,7 +12,7 @@ class ControllerApi extends GetxController{
     hata = hata + 1;
   }
 
-  static const _apiKey = 'b899eac9-4ac5-41b7-816e-9b992c79cd85';
+  static const _apiKey = 'your api';
   static const _url = 'https://pro-api.coinmarketcap.com/v1/cryptocurrency';
 
   Future<dynamic> getListingLatest(int limit) async {
